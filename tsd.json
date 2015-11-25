@@ -10,6 +10,24 @@
     },
     "aws-sdk/aws-sdk.d.ts": {
       "commit": "b2d17b5dad042e293e77d09f2a30d281325cb606"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "b2d17b5dad042e293e77d09f2a30d281325cb606"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "b2d17b5dad042e293e77d09f2a30d281325cb606"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "b2d17b5dad042e293e77d09f2a30d281325cb606"
+    },
+    "empower/empower.d.ts": {
+      "commit": "b2d17b5dad042e293e77d09f2a30d281325cb606"
+    },
+    "power-assert-formatter/power-assert-formatter.d.ts": {
+      "commit": "b2d17b5dad042e293e77d09f2a30d281325cb606"
+    },
+    "power-assert/power-assert.d.ts": {
+      "commit": "b2d17b5dad042e293e77d09f2a30d281325cb606"
     }
   }
 }

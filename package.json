@@ -17,10 +17,14 @@
   },
   "homepage": "https://github.com/uryyyyyyy/typescriptSample",
   "devDependencies": {
+    "mocha": "^2.3.4",
+    "power-assert": "^1.2.0",
     "tsd": "^0.6.5",
     "typescript": "^1.6.2"
   },
   "dependencies": {
-    "aws-sdk": "^2.2.19"
+    "aws-sdk": "^2.2.19",
+    "bluebird": "^3.0.5",
+    "lodash": "^3.10.1"
   }
 }

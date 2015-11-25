@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "../testBuild",
+    "removeComments": true,
+    "noImplicitAny": true,
+    "inlineSourceMap": true,
+    "inlineSources": true
+  },
+  "files": [
+    "util/lodashTest.ts",
+    "../typings/tsd.d.ts"
+  ]
+}
